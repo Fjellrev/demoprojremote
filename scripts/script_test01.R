@@ -1,11 +1,3 @@
 library(tidyverse)
 
-# new comment
-
-# second comment
-
-# thrid comment
-
-# fourht commnet
-
-# fifht cpdsof
+x <- c(1:3)
